@@ -1,6 +1,8 @@
 # Sorting-algorithms
 Task 1 Competitive programming
+
 M.Nisith 23BDS0059
+
 This program contains implements Bubble, Insertion and Selection sort.
 
 It accepts array size and elements from the user and sorts it using the 3 different functions and displays them individually
